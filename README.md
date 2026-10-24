@@ -4,7 +4,7 @@
 > [Ziyang Xie](https://ziyangxie.site/), [Junge Zhang](https://andy-zd.github.io/), Wenye Li, [Feihu Zhang](http://www.feihuzhang.com/), [Li Zhang](https://lzrobots.github.io)  
 > **ICLR 2023**
 
-### [[Project page]](https://fudan-zvg.github.io/S-NeRF/) / [[Paper]](https://arxiv.org/abs/2402.02112) / [[Demo]](https://www.youtube.com/embed/nWF9ZCnHIQM)
+### [[Project page]](https://logosintelligencelab.github.io/S-NeRF/) / [[Paper]](https://arxiv.org/abs/2402.02112) / [[Demo]](https://www.youtube.com/embed/nWF9ZCnHIQM)
 > [**S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation**](https://arxiv.org/abs/2402.02112),  
 > Yurui Chen, [Junge Zhang](https://andy-zd.github.io/), [Ziyang Xie](https://ziyangxie.site/),  Wenye Li, [Feihu Zhang](http://www.feihuzhang.com/), Jiachen Lu, [Li Zhang](https://lzrobots.github.io)  
 > **TPAMI 2025**
@@ -36,7 +36,7 @@ We introduce S-NeRF, a robust system to synthesizing large unbounded street view
 - [x] Pose Preparation Scripts
 - [x] Depth & Flow Preparation Scripts
 - [x] Code for training and testing
-- [x] Foreground Vehicle Reconstruction [Foreground-branch](https://github.com/fudan-zvg/S-NeRF/tree/foreground)
+- [x] Foreground Vehicle Reconstruction [Foreground-branch](https://github.com/LogosIntelligenceLab/S-NeRF/tree/foreground)
 
 ## 🔧 Installation
 Create a conda environment:
@@ -98,7 +98,7 @@ cd s-nerf
 python train.py --config [CONFIG FILE]
 ```
 
-> For the foreground vehicle reconstruction, please refer to branch [foreground](https://github.com/fudan-zvg/S-NeRF/tree/foreground).
+> For the foreground vehicle reconstruction, please refer to branch [foreground](https://github.com/LogosIntelligenceLab/S-NeRF/tree/foreground).
 
 # 🔄 Introducing S-NeRF++
 ## 🛠️ Pipeline
@@ -110,7 +110,7 @@ python train.py --config [CONFIG FILE]
 ### Environment
 ```shell
 # Clone the repo.
-git clone https://github.com/fudan-zvg/S-NeRF.git
+git clone https://github.com/LogosIntelligenceLab/S-NeRF.git
 cd S-NeRF/s-nerf++
 
 # Make a conda environment.
