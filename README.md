@@ -1,12 +1,12 @@
 # S-NeRF: Neural Radiance Fields for Street Views
 ### [[Project page]](https://ziyang-xie.github.io/s-nerf/) / [ [Paper]](https://arxiv.org/abs/2303.00749) / [[Demo]](https://img.youtube.com/vi/CY4NK-bvEus/0.jpg)
 > [**S-NeRF: Neural Radiance Fields for Street Views**](https://arxiv.org/abs/2303.00749),  
-> [Ziyang Xie](https://ziyangxie.site/), [Junge Zhang](https://andy-zd.github.io/), Wenye Li, [Feihu Zhang](http://www.feihuzhang.com/), [Li Zhang](https://lzrobots.github.io)  
+> [Ziyang Xie](https://ziyangxie.site/), Junge Zhang, Wenye Li, [Feihu Zhang](http://www.feihuzhang.com/), [Li Zhang](https://lzrobots.github.io)  
 > **ICLR 2023**
 
 ### [[Project page]](https://logosintelligencelab.github.io/S-NeRF/) / [[Paper]](https://arxiv.org/abs/2402.02112) / [[Demo]](https://www.youtube.com/embed/nWF9ZCnHIQM)
 > [**S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation**](https://arxiv.org/abs/2402.02112),  
-> Yurui Chen, [Junge Zhang](https://andy-zd.github.io/), [Ziyang Xie](https://ziyangxie.site/),  Wenye Li, [Feihu Zhang](http://www.feihuzhang.com/), Jiachen Lu, [Li Zhang](https://lzrobots.github.io)  
+> Yurui Chen, Junge Zhang, [Ziyang Xie](https://ziyangxie.site/),  Wenye Li, [Feihu Zhang](http://www.feihuzhang.com/), Jiachen Lu, [Li Zhang](https://lzrobots.github.io)  
 > **TPAMI 2025**
 
 ![demo](./assets/demo.gif)
